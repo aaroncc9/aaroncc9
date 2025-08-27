@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Aaron Cheung
 
-<!--
-**aaroncc9/aaroncc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software engineer and artist.
 
-Here are some ideas to get you started:
+Although I'm still studying computer science at The University of Texas - Dallas, lots of my skills such as Web Development and UX Design come from my personal pursuit of things that have interested me in the past.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Another great interest of mine is Graphic Design and Art. Creating visually unique or aesthetically pleasing compositions excersises the limits of my imagination, giving me the freedom to create in ways that are both functional and intriguing.
+
+The projects I've done come from a mix of independent curiosity and required coursework and most of them can be found here or on my portfolio aaroncheung.me.
+
+You can also contact me at my email: aaronccc999@gmail.com
+
+Or if you like cringe-inducing experiences, feel free to connect on LinkedIn, https://www.linkedin.com/in/aaron-c-cheung.
