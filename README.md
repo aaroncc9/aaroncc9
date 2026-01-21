@@ -2,9 +2,9 @@ Hi, I'm Aaron Cheung
 
 A passionate software engineer and artist.
 
-Although I'm still studying computer science at The University of Texas - Dallas, lots of my skills such as Web Development and UX Design come from my personal pursuit of things that have interested me in the past.
+As a recent graduate from The University of Texas - Dallas with a degree in Computer Science, I've developed skills in Web Development and UX Design through both academic coursework and personal projects driven by curiosity and genuine interest. My portfolio showcases a mix of university projects and independent work, all refined and polished to demonstrate my capabilities as a developer. Each project reflects not just technical competency, but also my approach to problem-solving and design.
 
-Another great interest of mine is Graphic Design and Art. Creating visually unique or aesthetically pleasing compositions excersises the limits of my imagination, giving me the freedom to create in ways that are both functional and intriguing.
+Beyond coding, I have a strong interest in Graphic Design and Art. Creating visually unique or aesthetically pleasing compositions exercises the limits of my imagination, giving me the freedom to create in ways that are both functional and intriguing.
 
 The projects I've done come from a mix of independent curiosity and required coursework and most of them can be found here or on my portfolio aaroncheung.me
 
